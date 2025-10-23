@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![FinTrack Banner](https://via.placeholder.com/800x200/6C63FF/FFFFFF?text=FinTrack+-+Smart+Expense+Tracking)
-
 **Track your expenses effortlessly with this beautiful and intuitive Flutter app**
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
@@ -115,21 +113,21 @@ FinTrack uses a modern purple color scheme:
 ## Features in Detail
 
 ### Expense Management
-- ✅ Add expenses with title, amount, category, and date
-- ✅ Categorize expenses (Food, Transport, Shopping, etc.)
-- ✅ View all expenses in a beautiful list
-- ✅ Delete unwanted expenses
-- ✅ Real-time total spending calculation
+- Add expenses with title, amount, category, and date
+- Categorize expenses (Food, Transport, Shopping, etc.)
+- View all expenses in a beautiful list
+- Delete unwanted expenses
+- Real-time total spending calculation
 
 ### Analytics & Insights
-- ✅ Visual spending breakdown by category
-- ✅ Percentage distribution of expenses
-- ✅ Clean and intuitive chart representations
+- Visual spending breakdown by category
+- Percentage distribution of expenses
+- Clean and intuitive chart representations
 
 ### Data Management
-- ✅ Local SQLite database storage
-- ✅ Data persistence across app restarts
-- ✅ Fast and efficient data operations
+- Local SQLite database storage
+- Data persistence across app restarts
+- Fast and efficient data operations
 
 
 
@@ -157,4 +155,3 @@ FinTrack uses a modern purple color scheme:
 *"Track smart, spend wiser"* 💫
 
 </div>
-```
