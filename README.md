@@ -1,4 +1,4 @@
-```markdown
+
 # FinTrack - Personal Expense Tracker
 
 <div align="center">
