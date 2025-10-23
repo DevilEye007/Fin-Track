@@ -43,7 +43,6 @@ FinTrack is a modern, user-friendly expense tracking application built with Flut
    ```bash
    git clone https://github.com/DevilEye007/fin_track.git
    cd fin_track
-   ```
 
 2. **Install dependencies**
    ```bash
