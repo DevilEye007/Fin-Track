@@ -8,7 +8,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![GitHub all releases](https://img.shields.io/github/downloads/DevilEye007/Fin-Track/total?style=for-the-badge&logo=githublabel=Total%20Downloads)](https://github.com/DevilEye007/Fin-Track/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/DevilEye007/Fin-Track/total?style=for-the-badge&logo=githublabel=Total%20Downloads)](https://github.com/DevilEye007/Fin-Track/releases/download/Expence_Tracker/app-release.apk)
 
 
 </div>
